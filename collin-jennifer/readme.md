@@ -1,22 +1,25 @@
-# Project Name
+# Lab07 - nodejs-npm-express
 
-**Author**: Your Name Goes Here
+**Author**: Collin Hintzke  and Jennifer Bach
 **Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+<!--A blog site that automatically updates when user submits a new article. -->
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+<!--Open IP address 209-210-157-165 in the browser.  Navigate around the website to read and create articles. -->
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+<!-- Languages used: HTML, CSS, Javascript.
+Libaries used: jQuery, handlebars, node.js, express and marked.js.-->
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+<!--
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
+01-01-2001 9:30am - Added information to create the server.
+
+04-18-2018 10:37am - Answered the questions/comments in the starter code.
 
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+<!-- Credit goes to the TAs for their assistance. -->
 -->

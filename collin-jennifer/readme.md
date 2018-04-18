@@ -22,4 +22,11 @@ Libaries used: jQuery, handlebars, node.js, express and marked.js.-->
 
 ## Credits and Collaborations
 <!-- Credit goes to the TAs for their assistance. -->
--->
+
+## User Stories
+<!--Initialize the project with npm init, which creates package.json and package-lock.json files. Don't forget to add node_modules to your .gitignore file!
+
+As a developer, I want to use the ExpressJS framework to set up a server file to handle HTTP requests and deliver responses.
+
+As a user, I want to access the form directly so I can easily add new articles.
+As a user, I want feedback if I have made an error so that I can make sure to always access the correct URL. -->

@@ -50,7 +50,7 @@ Article.prototype.insertRecord = function(callback) {
       console.log(data);
 
       // COMMENT: What is the purpose of this line? Is the callback invoked when this method is called? Why or why not?
-      // PUT YOUR RESPONSE HERE
+      // A callback function is a function that is called upon completion of a given task.  It prevents any blocking and allows other code to run in the meantime.
       if (callback) callback();
     })
 };
